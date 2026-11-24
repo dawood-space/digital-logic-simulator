@@ -265,3 +265,83 @@ footer {
     flex-direction: column;
   }
 }
+
+/* ===== MIDNIGHT SAGE THEME ===== */
+
+body {
+    background: #172B32;
+    color: #F3F0E7;
+}
+
+.wrap {
+    background: #172B32;
+}
+
+header {
+    color: #F3F0E7;
+    border-bottom: 1px solid #40565A;
+}
+
+fieldset, .card, .panel {
+    background: #F3F0E7;
+    color: #263C42;
+    border: 1px solid #D7D5C9;
+    border-radius: 12px;
+}
+
+.gatebox {
+    background: #263C42;
+    color: #F3F0E7;
+    border: 1px solid #54716F;
+    border-radius: 10px;
+}
+
+button {
+    background: #397C75;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 18px;
+}
+
+button:hover {
+    background: #2D665F;
+}
+
+table {
+    background: #F3F0E7;
+    color: #263C42;
+    width: 100%;
+}
+
+th {
+    background: #397C75;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #D7D5C9;
+}
+
+tr.active {
+    background: #E5D6B9;
+    color: #263C42;
+}
+
+input, select {
+    background: white;
+    color: #263C42;
+    border: 1px solid #C9C8BB;
+    border-radius: 6px;
+    padding: 9px;
+}
+
+h1, h2, h3 {
+    color: #D6AA62;
+}
+
+a {
+    color: #78B8AD;
+}
